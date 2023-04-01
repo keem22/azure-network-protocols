@@ -1,7 +1,5 @@
 <p align="center">
-</p>
- <img src="https://user-images.githubusercontent.com/129001903/229301406-5e3950c2-d027-4726-bd5a-866e2cce1f13.png"
-"
+<img src="https://user-images.githubusercontent.com/129001903/229301406-5e3950c2-d027-4726-bd5a-866e2cce1f13.png"
 </p>
 
 <h1>Creating A Virtual Networks and Subnets in Azure</h1>
