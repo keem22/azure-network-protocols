@@ -6,7 +6,7 @@
 
 <h2>Description</h2>
 
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this Project I will show you how to use Azure Services to create two virtual networks using Windows and Linux. Services i will use, resource group, virtual machine, and network watcher. I will provide pictures as well as step by step detail on the process.  <br />
 
 <h2>Environments and Technologies Used</h2>
 
