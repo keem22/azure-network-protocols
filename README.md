@@ -26,8 +26,7 @@ In this Project I will show you how to use Azure Services to create two virtual 
 <img src="https://imgur.com/HL6umIg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Azure Network Services perform networking operations within Azure and between Azure and on-premises infrastructure. These include Azure Virtual Network, Azure Resource group, Azure Network Watcher, and Azure Security Groups.</p>
 <br />
 
 <p align="center">
