@@ -8,7 +8,7 @@
 
 In this Project I will show you how to use Azure Services to create two virtual networks using Windows and Linux. Services i will use, resource group, virtual machine, and network watcher. I will provide pictures as well as step by step detail on the process.  <br />
 
-<h2>Environments and Technologies Used</h2>
+<h2>Services Used</h2>
 
 - Microsoft Azure
 - Virtual Network
