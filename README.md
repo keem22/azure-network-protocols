@@ -1,7 +1,8 @@
 <p align="center">
 
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
- </p>https://user-images.githubusercontent.com/129001903/229299626-3245f013-deeb-478b-aaea-8c9be8b25242.png
+ </p>
+ <img src="https://user-images.githubusercontent.com/129001903/229299626-3245f013-deeb-478b-aaea-8c9be8b25242.png"
 
 <h1>Creating A Virtual Networks and Subnets in Azure</h1>
 
