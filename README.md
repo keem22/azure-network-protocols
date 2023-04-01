@@ -34,8 +34,10 @@ Azure Network Services perform networking operations within Azure and between Az
 ">
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Subscription: Select your Azure Subscription 
+- Resource groups: Enter a new Resource Group name
+- Region: Select an Azure location
+- Create: Select Review + Create and in seconds your resource group is complete.
 </p>
 <br />
 
