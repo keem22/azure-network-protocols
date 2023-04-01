@@ -52,7 +52,7 @@ Azure Network Services perform networking operations within Azure and between Az
 <img src="https://user-images.githubusercontent.com/129001903/229301256-3f62c583-434c-4e4a-993f-91a76ee88e94.png">
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-  
 </p>
 <br />
 
@@ -61,7 +61,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2>Network Watcher</h2>
 <p align="center">
 <img src="https://imgur.com/zt9cASI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
+- Select Networker Watcher
+- Select Topology
+- Subscription: Select your Azure Subscription
+- Resource groups: Select Resource Group
+- Virtual Network: Select VM name
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
